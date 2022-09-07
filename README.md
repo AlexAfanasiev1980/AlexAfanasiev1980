@@ -21,7 +21,7 @@
 
 :man_technologist: About Me :
 
-Я начинающий Front-end разработчикr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я начинающий Front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 ### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
