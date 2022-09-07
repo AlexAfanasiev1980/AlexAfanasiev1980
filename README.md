@@ -10,7 +10,7 @@
    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
   </div>
   <h1 align="center">
-  Hey there, I'm Alexander
+  Привет, мое имя Александр!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -21,7 +21,7 @@
 
 :man_technologist: About Me :
 
-I am a beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я начинающий Front-end разработчикr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
