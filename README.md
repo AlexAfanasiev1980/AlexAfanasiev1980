@@ -19,7 +19,7 @@
 
 ---
 
-:man_technologist: About Me :
+:man_technologist: Обо мне :
 
 Я начинающий Front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
